@@ -2,17 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://github.com/WangLiamSmith/WangLiamSmith.github.io/</loc>
+    <loc>https://wangliamsmith.github.ioB/</loc>
+    <lastmod>2026-02-28T18:16:58+08:00</lastmod>
+  </url><url>
+    <loc>https://wangliamsmith.github.ioB/posts/</loc>
+    <lastmod>2026-02-28T18:16:58+08:00</lastmod>
+  </url><url>
+    <loc>https://wangliamsmith.github.ioB/posts/second/</loc>
+    <lastmod>2026-02-28T18:16:58+08:00</lastmod>
+  </url><url>
+    <loc>https://wangliamsmith.github.ioB/posts/first-post/</loc>
     <lastmod>2026-02-28T16:22:52+08:00</lastmod>
   </url><url>
-    <loc>https://github.com/WangLiamSmith/WangLiamSmith.github.io/posts/</loc>
-    <lastmod>2026-02-28T16:22:52+08:00</lastmod>
+    <loc>https://wangliamsmith.github.ioB/categories/</loc>
   </url><url>
-    <loc>https://github.com/WangLiamSmith/WangLiamSmith.github.io/posts/first-post/</loc>
-    <lastmod>2026-02-28T16:22:52+08:00</lastmod>
-  </url><url>
-    <loc>https://github.com/WangLiamSmith/WangLiamSmith.github.io/categories/</loc>
-  </url><url>
-    <loc>https://github.com/WangLiamSmith/WangLiamSmith.github.io/tags/</loc>
+    <loc>https://wangliamsmith.github.ioB/tags/</loc>
   </url>
 </urlset>

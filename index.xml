@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Project</title>
-    <link>https://github.com/WangLiamSmith/WangLiamSmith.github.io/</link>
+    <link>https://wangliamsmith.github.ioB/</link>
     <description>Recent content on My New Hugo Project</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Feb 2026 16:22:52 +0800</lastBuildDate>
-    <atom:link href="https://github.com/WangLiamSmith/WangLiamSmith.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Feb 2026 18:16:58 +0800</lastBuildDate>
+    <atom:link href="https://wangliamsmith.github.ioB/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>精进是本能</title>
+      <link>https://wangliamsmith.github.ioB/posts/second/</link>
+      <pubDate>Sat, 28 Feb 2026 18:16:58 +0800</pubDate>
+      <guid>https://wangliamsmith.github.ioB/posts/second/</guid>
+      <description>&lt;h1 id=&#34;学习的权利无认可剥夺&#34;&gt;学习的权利无认可剥夺&lt;/h1&gt;&#xA;&lt;h2 id=&#34;传统观念&#34;&gt;传统观念&lt;/h2&gt;&#xA;&lt;p&gt;回家过年，八十多岁的爷爷对我，还要继续教育“学成文武艺，货与帝王家”。你这天天念英语，得个啥？不仅是爷爷，我父亲的思想亦是如此，学习本身是功力性质的，是要“货与帝王家”的，不论是上大学必须本科，不是本科不能考公务员，上研究生更能公务员还能加分……本身把“考公”与“学习”两个概念进行了混淆。&#xA;学习，是终身的，是不断精进自己的技艺的过程，本身是欣喜的/愉悦的。而一旦功利化，压力大，就会丧失学习的快乐，彻底丧失后，就很难再进步了。以高中生为例，需要的是：理解，记忆。而理解和记忆两个能力，在高压下，在情绪低落的时候，是很难进行的，你越是紧张越是压力大，越是逼迫自己去学习，反而会越是不开心，反而越是学习效率低下。“仓廪实而知荣辱”“吃饱饭了能诗歌”，很多情况是有前置条件的：学习这个事情本身，需要的环境很苛刻！它发生在你的大脑里，仅仅是大量重复是不够的，还需要你的理解和悟性。&lt;/p&gt;&#xA;&lt;h2 id=&#34;开拓&#34;&gt;开拓&lt;/h2&gt;&#xA;&lt;p&gt;今天部署成功了这个blog很开心。我年纪一把了，为啥还要学英语？因为我知道了，山的那边不是山！感谢编程随想。谢谢你，开拓了我的思想。之前很多事情，都是知道，但是有一个“思想钢印”，管那些政治干毛线，过好自己的日子才是，混的差的一批，关心啥国家大事……直到人到中年一事无成。&lt;/p&gt;&#xA;&lt;h2 id=&#34;自己&#34;&gt;自己&lt;/h2&gt;&#xA;&lt;p&gt;我自己，就是我自己，生命的本质是探索。无须证明，我，已经证明了三十多年了，且，我已经证明过：可以考上重点大学，可以保送研究生，可以考上公务员……然后呢？这道证明题无限制，这根本不是我要的！还好，我有一个能力：掀桌子的能力。打碎了瓶瓶罐罐，推倒重来。可惜的只是，近两年身体不好，因为心情没有那种畅快的感觉，虽然没有抑郁，但是总闷闷不乐，我热爱的体育不能继续，一跑步就喘，窒息感，生活质量的严重下降，制约了我自己。&#xA;常总结，目前，就一个目标：调整自己快乐，不快乐就换个地方/环境/各种都是服务于营造好的身心愉悦的条件，然后英语雅思，然后加拿大/美国。&#xA;就如同跑步，如同考大学，只有自己一次次锻炼跑步，一次次刷题，才能去！只有我自己能帮到我自己，对自己好点。我知道，我不孤独，还有很多与我一样的人，陌生人祝福你，你可以的。&#xA;&lt;img src=&#34;https://wangliamsmith.github.ioB/images/IMG_0355.jpg&#34; alt=&#34;小时候爱问山的那边是啥&#34;&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>我的第一篇blog</title>
-      <link>https://github.com/WangLiamSmith/WangLiamSmith.github.io/posts/first-post/</link>
+      <link>https://wangliamsmith.github.ioB/posts/first-post/</link>
       <pubDate>Sat, 28 Feb 2026 16:22:52 +0800</pubDate>
-      <guid>https://github.com/WangLiamSmith/WangLiamSmith.github.io/posts/first-post/</guid>
-      <description>&lt;h1 id=&#34;生命不息折腾不止&#34;&gt;生命不息折腾不止&lt;/h1&gt;&#xA;&lt;h2 id=&#34;行动力先得60分&#34;&gt;行动力/先得60分&lt;/h2&gt;&#xA;&lt;p&gt;这是我的第一篇blog，我感觉这个比游戏好玩，人在低谷的时候总的干点什么，学英语/学编程，不虚度即可，人生不断探索，这就是生命的本质，活到老折腾到老。&lt;/p&gt;&#xA;&lt;h2 id=&#34;60分的前置是立刻开始就得分50&#34;&gt;60分的前置是：立刻开始就得分50！&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://github.com/WangLiamSmith/WangLiamSmith.github.io/images/IMG_0478.jpg&#34; alt=&#34;今天的照片&#34;&gt;&lt;/p&gt;</description>
+      <guid>https://wangliamsmith.github.ioB/posts/first-post/</guid>
+      <description>&lt;h1 id=&#34;生命不息折腾不止&#34;&gt;生命不息折腾不止&lt;/h1&gt;&#xA;&lt;h2 id=&#34;行动力先得60分&#34;&gt;行动力/先得60分&lt;/h2&gt;&#xA;&lt;p&gt;这是我的第一篇blog，我感觉这个比游戏好玩，人在低谷的时候总的干点什么，学英语/学编程，不虚度即可，人生不断探索，这就是生命的本质，活到老折腾到老。&lt;/p&gt;&#xA;&lt;h2 id=&#34;60分的前置是立刻开始就得分50&#34;&gt;60分的前置是：立刻开始就得分50！&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://wangliamsmith.github.ioB/images/IMG_0478.jpg&#34; alt=&#34;今天的照片&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
