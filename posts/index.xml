@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Project</title>
+    <link>https://github.com/WangLiamSmith/WangLiamSmith.github.io/posts/</link>
+    <description>Recent content in Posts on My New Hugo Project</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 28 Feb 2026 16:22:52 +0800</lastBuildDate>
+    <atom:link href="https://github.com/WangLiamSmith/WangLiamSmith.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>我的第一篇blog</title>
+      <link>https://github.com/WangLiamSmith/WangLiamSmith.github.io/posts/first-post/</link>
+      <pubDate>Sat, 28 Feb 2026 16:22:52 +0800</pubDate>
+      <guid>https://github.com/WangLiamSmith/WangLiamSmith.github.io/posts/first-post/</guid>
+      <description>&lt;h1 id=&#34;生命不息折腾不止&#34;&gt;生命不息折腾不止&lt;/h1&gt;&#xA;&lt;h2 id=&#34;行动力先得60分&#34;&gt;行动力/先得60分&lt;/h2&gt;&#xA;&lt;p&gt;这是我的第一篇blog，我感觉这个比游戏好玩，人在低谷的时候总的干点什么，学英语/学编程，不虚度即可，人生不断探索，这就是生命的本质，活到老折腾到老。&lt;/p&gt;&#xA;&lt;h2 id=&#34;60分的前置是立刻开始就得分50&#34;&gt;60分的前置是：立刻开始就得分50！&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://github.com/WangLiamSmith/WangLiamSmith.github.io/images/IMG_0478.jpg&#34; alt=&#34;今天的照片&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
