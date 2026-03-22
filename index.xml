@@ -1,159 +1,235 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Project</title>
-    <link>https://wangliamsmith.github.ioB/</link>
-    <description>Recent content on My New Hugo Project</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 20 Mar 2026 16:26:08 +0800</lastBuildDate>
-    <atom:link href="https://wangliamsmith.github.ioB/index.xml" rel="self" type="application/rss+xml" />
+    <title>Blowfish</title>
+    <link>https://wangliamsmith.github.io/</link>
+    <description>Recent content on Blowfish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>nuno@n9o.xyz (Blowfish)</managingEditor>
+    <webMaster>nuno@n9o.xyz (Blowfish)</webMaster>
+    <copyright>© 2026 Blowfish</copyright>
+    <lastBuildDate>Sun, 22 Mar 2026 15:09:38 +0800</lastBuildDate><atom:link href="https://wangliamsmith.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3月22日</title>
+      <link>https://wangliamsmith.github.io/posts/3%E6%9C%8822%E6%97%A5/</link>
+      <pubDate>Sun, 22 Mar 2026 15:09:38 +0800</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>https://wangliamsmith.github.io/posts/3%E6%9C%8822%E6%97%A5/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;成功Claude code&#xA;    &lt;div id=&#34;成功claude-code&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#%e6%88%90%e5%8a%9fclaude-code&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;p&gt;实际上早想用，感觉终端很酷，之前用了一个sgpt，是调用chatgpt的api,然后终端使用，只能提供简单的终端命令提示，功能很局限。&lt;/p&gt;&#xA;&lt;p&gt;感觉claude code 很惊艳：成功部署了这个blog的theme，调整各种格式错误，要我自己去调整，我会反反复复查询，询问，调整，然后还是报错，毕竟三把刀的我，编程是体育老师教的。&lt;/p&gt;&#xA;&lt;p&gt;订阅claude code :1. Talktone,升级为pro,6$一个月取消订阅已经，然后就可收到验证码；2.订阅Claude code的付费版本，就可以用这个强大功能了啦，很惊艳很开心。&lt;/p&gt;&#xA;&lt;p&gt;![image-20260322151422527](/Users/smith/Library/Application Support/typora-user-images/image-20260322151422527.jpg)&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>3月20日</title>
-      <link>https://wangliamsmith.github.ioB/posts/3%E6%9C%8820%E6%97%A5/</link>
+      <link>https://wangliamsmith.github.io/posts/3%E6%9C%8820%E6%97%A5/</link>
       <pubDate>Fri, 20 Mar 2026 16:26:08 +0800</pubDate>
-      <guid>https://wangliamsmith.github.ioB/posts/3%E6%9C%8820%E6%97%A5/</guid>
-      <description>&lt;h2 id=&#34;晴天&#34;&gt;晴天&lt;/h2&gt;&#xA;&lt;p&gt;温故知新，随便写写。&lt;/p&gt;</description>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>https://wangliamsmith.github.io/posts/3%E6%9C%8820%E6%97%A5/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;晴天&#xA;    &lt;div id=&#34;晴天&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#%e6%99%b4%e5%a4%a9&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;p&gt;温故知新，随便写写。&lt;/p&gt;</description>
+      
     </item>
+    
     <item>
       <title>3月19日</title>
-      <link>https://wangliamsmith.github.ioB/posts/3%E6%9C%8819%E6%97%A5/</link>
+      <link>https://wangliamsmith.github.io/posts/3%E6%9C%8819%E6%97%A5/</link>
       <pubDate>Thu, 19 Mar 2026 16:01:53 +0800</pubDate>
-      <guid>https://wangliamsmith.github.ioB/posts/3%E6%9C%8819%E6%97%A5/</guid>
-      <description>&lt;h2 id=&#34;youtube-channel&#34;&gt;YouTube channel&lt;/h2&gt;&#xA;&lt;p&gt;喜欢这个博主，可以学英语。&lt;/p&gt;&#xA;&lt;p&gt;人很健康，不论身体还是心灵，未受束缚的健康。&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;images/319.jpg&#34; alt=&#34;balabala&#34;&gt;&lt;/p&gt;</description>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>https://wangliamsmith.github.io/posts/3%E6%9C%8819%E6%97%A5/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;YouTube channel&#xA;    &lt;div id=&#34;youtube-channel&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#youtube-channel&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;p&gt;喜欢这个博主，可以学英语。&lt;/p&gt;&#xA;&lt;p&gt;人很健康，不论身体还是心灵，未受束缚的健康。&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;low&#34;&#xA;    alt=&#34;balabala&#34;&#xA;    src=&#34;https://wangliamsmith.github.io/images/319.jpg&#34;&#xA;    &gt;&lt;/figure&gt;</description>
+      
     </item>
+    
     <item>
       <title>3月16日</title>
-      <link>https://wangliamsmith.github.ioB/posts/3%E6%9C%8816%E6%97%A5/</link>
+      <link>https://wangliamsmith.github.io/posts/3%E6%9C%8816%E6%97%A5/</link>
       <pubDate>Mon, 16 Mar 2026 16:12:12 +0800</pubDate>
-      <guid>https://wangliamsmith.github.ioB/posts/3%E6%9C%8816%E6%97%A5/</guid>
-      <description>&lt;h2 id=&#34;hard&#34;&gt;Hard&lt;/h2&gt;&#xA;&lt;p&gt;我选择了困难模式，且一直会选择困难模式。加油吧。&lt;/p&gt;&#xA;&lt;p&gt;![image-20260316161348321](/Users/smith/Library/Application Support/typora-user-images/image-20260316161348321.jpg)&lt;/p&gt;</description>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>https://wangliamsmith.github.io/posts/3%E6%9C%8816%E6%97%A5/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;Hard&#xA;    &lt;div id=&#34;hard&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#hard&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;p&gt;我选择了困难模式，且一直会选择困难模式。加油吧。&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;low&#34;&#xA;    alt=&#34;image-20260316161348321&#34;&#xA;    src=&#34;https://wangliamsmith.github.io/images/image-20260316161348321.jpg&#34;&#xA;    &gt;&lt;/figure&gt;</description>
+      
     </item>
+    
     <item>
       <title>3月15日</title>
-      <link>https://wangliamsmith.github.ioB/posts/3%E6%9C%8815%E6%97%A5/</link>
+      <link>https://wangliamsmith.github.io/posts/3%E6%9C%8815%E6%97%A5/</link>
       <pubDate>Sun, 15 Mar 2026 20:42:45 +0800</pubDate>
-      <guid>https://wangliamsmith.github.ioB/posts/3%E6%9C%8815%E6%97%A5/</guid>
-      <description>&lt;h2 id=&#34;继续&#34;&gt;继续&lt;/h2&gt;&#xA;&lt;p&gt;继续努力，加油干&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;images/315.jpg&#34; alt=&#34;我的桌面&#34;&gt;&lt;/p&gt;</description>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>https://wangliamsmith.github.io/posts/3%E6%9C%8815%E6%97%A5/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;继续&#xA;    &lt;div id=&#34;继续&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#%e7%bb%a7%e7%bb%ad&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;p&gt;继续努力，加油干&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;low&#34;&#xA;    alt=&#34;我的桌面&#34;&#xA;    src=&#34;https://wangliamsmith.github.io/images/315.jpg&#34;&#xA;    &gt;&lt;/figure&gt;</description>
+      
     </item>
+    
     <item>
       <title>3月14日</title>
-      <link>https://wangliamsmith.github.ioB/posts/3%E6%9C%8814%E6%97%A5/</link>
+      <link>https://wangliamsmith.github.io/posts/3%E6%9C%8814%E6%97%A5/</link>
       <pubDate>Sat, 14 Mar 2026 17:37:41 +0800</pubDate>
-      <guid>https://wangliamsmith.github.ioB/posts/3%E6%9C%8814%E6%97%A5/</guid>
-      <description>&lt;h2 id=&#34;怎么办&#34;&gt;怎么办&lt;/h2&gt;&#xA;&lt;p&gt;下雨天，心情就会不美丽。&lt;/p&gt;&#xA;&lt;p&gt;一个人，怎么办。&lt;/p&gt;&#xA;&lt;p&gt;需要一个平台和一群人，我个人虽然很努力，很有天分，但是我不是神仙啊！&lt;/p&gt;</description>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>https://wangliamsmith.github.io/posts/3%E6%9C%8814%E6%97%A5/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;怎么办&#xA;    &lt;div id=&#34;怎么办&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#%e6%80%8e%e4%b9%88%e5%8a%9e&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;p&gt;下雨天，心情就会不美丽。&lt;/p&gt;&#xA;&lt;p&gt;一个人，怎么办。&lt;/p&gt;&#xA;&lt;p&gt;需要一个平台和一群人，我个人虽然很努力，很有天分，但是我不是神仙啊！&lt;/p&gt;</description>
+      
     </item>
+    
     <item>
       <title>3月13日</title>
-      <link>https://wangliamsmith.github.ioB/posts/3%E6%9C%8813%E6%97%A5/</link>
+      <link>https://wangliamsmith.github.io/posts/3%E6%9C%8813%E6%97%A5/</link>
       <pubDate>Fri, 13 Mar 2026 21:44:39 +0800</pubDate>
-      <guid>https://wangliamsmith.github.ioB/posts/3%E6%9C%8813%E6%97%A5/</guid>
-      <description>&lt;h2 id=&#34;先完成1000小时&#34;&gt;先完成1000小时&lt;/h2&gt;&#xA;&lt;p&gt;而完成1000小时，需要多久呢？每天能坚持多长时间呢？How many time?&lt;/p&gt;</description>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>https://wangliamsmith.github.io/posts/3%E6%9C%8813%E6%97%A5/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;先完成1000小时&#xA;    &lt;div id=&#34;先完成1000小时&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#%e5%85%88%e5%ae%8c%e6%88%901000%e5%b0%8f%e6%97%b6&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;p&gt;而完成1000小时，需要多久呢？每天能坚持多长时间呢？How many time?&lt;/p&gt;</description>
+      
     </item>
+    
     <item>
       <title>3月12日</title>
-      <link>https://wangliamsmith.github.ioB/posts/3%E6%9C%8812%E6%97%A5/</link>
+      <link>https://wangliamsmith.github.io/posts/3%E6%9C%8812%E6%97%A5/</link>
       <pubDate>Thu, 12 Mar 2026 11:28:49 +0800</pubDate>
-      <guid>https://wangliamsmith.github.ioB/posts/3%E6%9C%8812%E6%97%A5/</guid>
-      <description>&lt;h2 id=&#34;今天&#34;&gt;今天&lt;/h2&gt;&#xA;&lt;p&gt;感觉很差，没睡好，也困，也烦躁，没有信心，感觉这个月要过完了。感觉考不过，虽然说过不了还有下次，但感觉好难啊。要简单，大家都成功了，要坚持，我继续单词和朗读去。完成今日任务，可能心情会好一点，多吃点，中午去睡会。&lt;/p&gt;&#xA;&lt;p&gt;今天有沙尘暴，天气很差。&lt;/p&gt;</description>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>https://wangliamsmith.github.io/posts/3%E6%9C%8812%E6%97%A5/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;今天&#xA;    &lt;div id=&#34;今天&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#%e4%bb%8a%e5%a4%a9&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;p&gt;感觉很差，没睡好，也困，也烦躁，没有信心，感觉这个月要过完了。感觉考不过，虽然说过不了还有下次，但感觉好难啊。要简单，大家都成功了，要坚持，我继续单词和朗读去。完成今日任务，可能心情会好一点，多吃点，中午去睡会。&lt;/p&gt;&#xA;&lt;p&gt;今天有沙尘暴，天气很差。&lt;/p&gt;</description>
+      
     </item>
+    
     <item>
       <title>3月11日</title>
-      <link>https://wangliamsmith.github.ioB/posts/3%E6%9C%8811%E6%97%A5/</link>
+      <link>https://wangliamsmith.github.io/posts/3%E6%9C%8811%E6%97%A5/</link>
       <pubDate>Wed, 11 Mar 2026 16:51:07 +0800</pubDate>
-      <guid>https://wangliamsmith.github.ioB/posts/3%E6%9C%8811%E6%97%A5/</guid>
-      <description>&lt;h2 id=&#34;户籍问题&#34;&gt;户籍问题&lt;/h2&gt;&#xA;&lt;p&gt;我最先想到的是广州“躲猫猫”的孙同学；这个问题本质是，方便政府对民众对控制；而不是方便民众本身，原先是几乎不让民众流动的，也是不鼓励的，因为流动虽然有利于个人，但是不利于政府管理会混乱。因此，只有在改革开放后，才逐步放开户籍管理制度，允许自由迁徙，在2008年到达高峰，南来北往农民工进城留守儿童问题等等，都是在允许“非本地户籍可以务工”临时身份证后，才开始的。&lt;/p&gt;&#xA;&lt;p&gt;想到了，美国很多州的社保卡，没有照片，哈哈，为了隐私，简直不敢想象。最近读了，斯诺的书，思考了更多“隐私”的东西，隐私是人人与生俱来的权利，只是，就现在，很多人没有意识到这一点，也不会保护不在意自己的隐私问题。&lt;/p&gt;&#xA;&lt;p&gt;个人信息随便泄露，随便买卖，交给发展吧。&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;images/311.jpg&#34; alt=&#34;今天天气好&#34;&gt;&lt;/p&gt;</description>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>https://wangliamsmith.github.io/posts/3%E6%9C%8811%E6%97%A5/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;户籍问题&#xA;    &lt;div id=&#34;户籍问题&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#%e6%88%b7%e7%b1%8d%e9%97%ae%e9%a2%98&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;p&gt;我最先想到的是广州“躲猫猫”的孙同学；这个问题本质是，方便政府对民众对控制；而不是方便民众本身，原先是几乎不让民众流动的，也是不鼓励的，因为流动虽然有利于个人，但是不利于政府管理会混乱。因此，只有在改革开放后，才逐步放开户籍管理制度，允许自由迁徙，在2008年到达高峰，南来北往农民工进城留守儿童问题等等，都是在允许“非本地户籍可以务工”临时身份证后，才开始的。&lt;/p&gt;&#xA;&lt;p&gt;想到了，美国很多州的社保卡，没有照片，哈哈，为了隐私，简直不敢想象。最近读了，斯诺的书，思考了更多“隐私”的东西，隐私是人人与生俱来的权利，只是，就现在，很多人没有意识到这一点，也不会保护不在意自己的隐私问题。&lt;/p&gt;&#xA;&lt;p&gt;个人信息随便泄露，随便买卖，交给发展吧。&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;low&#34;&#xA;    alt=&#34;今天天气好&#34;&#xA;    src=&#34;https://wangliamsmith.github.io/images/311.jpg&#34;&#xA;    &gt;&lt;/figure&gt;</description>
+      
     </item>
+    
     <item>
       <title>3月10日</title>
-      <link>https://wangliamsmith.github.ioB/posts/3%E6%9C%8810%E6%97%A5/</link>
+      <link>https://wangliamsmith.github.io/posts/3%E6%9C%8810%E6%97%A5/</link>
       <pubDate>Tue, 10 Mar 2026 13:39:21 +0800</pubDate>
-      <guid>https://wangliamsmith.github.ioB/posts/3%E6%9C%8810%E6%97%A5/</guid>
-      <description>&lt;p&gt;地点：千峰&lt;/p&gt;&#xA;&lt;h2 id=&#34;feel-bad&#34;&gt;feel bad&lt;/h2&gt;&#xA;&lt;p&gt;为啥，可耻丢人的不是英语差，而是迟到。是证件过期，截止日期是12:45，我脑子坏掉了啊，不仔细看一直以为是13:00。而这个工作人员也是，死板。卡着点点我，缺考了。&lt;/p&gt;&#xA;&lt;h2 id=&#34;感觉难受啊&#34;&gt;感觉难受啊&lt;/h2&gt;&#xA;&lt;p&gt;就是一种，往前走，因为时光流过，背后的城市就会消失，你就不再属于这里。我属于哪里？从来没有过归属感。&lt;/p&gt;&#xA;&lt;p&gt;在吉县的时候，是痛恨的，痛恨父母辈祖辈的原地不动，后来也想过是时代问题，时代不允许，但最近，还是觉得，思想的禁足。思想上的不跑，而即便政策给了，也是会原地不动的。&lt;/p&gt;&#xA;&lt;p&gt;也好比，潮汕很多人还是固守自己的贫困的土地。&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;images/310.jpg&#34; alt=&#34;太原&#34;&gt;&lt;/p&gt;</description>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>https://wangliamsmith.github.io/posts/3%E6%9C%8810%E6%97%A5/</guid>
+      <description>&lt;p&gt;地点：千峰&lt;/p&gt;&#xA;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;feel bad&#xA;    &lt;div id=&#34;feel-bad&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#feel-bad&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;p&gt;为啥，可耻丢人的不是英语差，而是迟到。是证件过期，截止日期是12:45，我脑子坏掉了啊，不仔细看一直以为是13:00。而这个工作人员也是，死板。卡着点点我，缺考了。&lt;/p&gt;&#xA;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;感觉难受啊&#xA;    &lt;div id=&#34;感觉难受啊&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#%e6%84%9f%e8%a7%89%e9%9a%be%e5%8f%97%e5%95%8a&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;p&gt;就是一种，往前走，因为时光流过，背后的城市就会消失，你就不再属于这里。我属于哪里？从来没有过归属感。&lt;/p&gt;&#xA;&lt;p&gt;在吉县的时候，是痛恨的，痛恨父母辈祖辈的原地不动，后来也想过是时代问题，时代不允许，但最近，还是觉得，思想的禁足。思想上的不跑，而即便政策给了，也是会原地不动的。&lt;/p&gt;&#xA;&lt;p&gt;也好比，潮汕很多人还是固守自己的贫困的土地。&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;low&#34;&#xA;    alt=&#34;太原&#34;&#xA;    src=&#34;https://wangliamsmith.github.io/images/310.jpg&#34;&#xA;    &gt;&lt;/figure&gt;</description>
+      
     </item>
+    
     <item>
       <title>3月9日</title>
-      <link>https://wangliamsmith.github.ioB/posts/3%E6%9C%889%E6%97%A5/</link>
+      <link>https://wangliamsmith.github.io/posts/3%E6%9C%889%E6%97%A5/</link>
       <pubDate>Mon, 09 Mar 2026 15:44:17 +0800</pubDate>
-      <guid>https://wangliamsmith.github.ioB/posts/3%E6%9C%889%E6%97%A5/</guid>
-      <description>&lt;h2 id=&#34;天天都要写blog&#34;&gt;天天都要写blog&lt;/h2&gt;&#xA;&lt;p&gt;昨天，没有写，昨天的状态就不好，这是自我坚持自我监督，学习了吗，距离目标更进一步里吗？&lt;/p&gt;&#xA;&lt;h2 id=&#34;why-are-you-&#34;&gt;why are you ?&lt;/h2&gt;&#xA;&lt;p&gt;因为，只有我能行。其他人不及我，而这种说得出口的自信，不是莽夫的，是有真材实料的，是真本事的，不是：随便拉个人就可以发传单，找个人就可以扫大街刷盘子干苦力！这样，是不值钱的。&lt;/p&gt;&#xA;&lt;p&gt;你，要过上好的生活，想要好日子，就要有那个能力和本事，古今中外，都是如此。&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;images/39.jpg&#34; alt=&#34;今日照片&#34;&gt;&lt;/p&gt;</description>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>https://wangliamsmith.github.io/posts/3%E6%9C%889%E6%97%A5/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;天天都要写blog&#xA;    &lt;div id=&#34;天天都要写blog&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#%e5%a4%a9%e5%a4%a9%e9%83%bd%e8%a6%81%e5%86%99blog&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;p&gt;昨天，没有写，昨天的状态就不好，这是自我坚持自我监督，学习了吗，距离目标更进一步里吗？&lt;/p&gt;&#xA;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;why are you ?&#xA;    &lt;div id=&#34;why-are-you-&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#why-are-you-&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;p&gt;因为，只有我能行。其他人不及我，而这种说得出口的自信，不是莽夫的，是有真材实料的，是真本事的，不是：随便拉个人就可以发传单，找个人就可以扫大街刷盘子干苦力！这样，是不值钱的。&lt;/p&gt;&#xA;&lt;p&gt;你，要过上好的生活，想要好日子，就要有那个能力和本事，古今中外，都是如此。&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;low&#34;&#xA;    alt=&#34;今日照片&#34;&#xA;    src=&#34;https://wangliamsmith.github.io/images/39.jpg&#34;&#xA;    &gt;&lt;/figure&gt;</description>
+      
     </item>
+    
     <item>
       <title>3月7日</title>
-      <link>https://wangliamsmith.github.ioB/posts/3%E6%9C%887%E6%97%A5/</link>
+      <link>https://wangliamsmith.github.io/posts/3%E6%9C%887%E6%97%A5/</link>
       <pubDate>Sat, 07 Mar 2026 11:40:24 +0800</pubDate>
-      <guid>https://wangliamsmith.github.ioB/posts/3%E6%9C%887%E6%97%A5/</guid>
-      <description>&lt;h2 id=&#34;天冷&#34;&gt;天冷&lt;/h2&gt;&#xA;&lt;p&gt;天气冷，学习效率高；但是，压力有，虽然宽慰自己，这次雅思不过还有下次继续，但我知道，时间不等我啊。&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;images/37.jpg&#34; alt=&#34;时间时间&#34;&gt;&lt;/p&gt;</description>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>https://wangliamsmith.github.io/posts/3%E6%9C%887%E6%97%A5/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;天冷&#xA;    &lt;div id=&#34;天冷&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#%e5%a4%a9%e5%86%b7&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;p&gt;天气冷，学习效率高；但是，压力有，虽然宽慰自己，这次雅思不过还有下次继续，但我知道，时间不等我啊。&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;low&#34;&#xA;    alt=&#34;时间时间&#34;&#xA;    src=&#34;https://wangliamsmith.github.io/images/37.jpg&#34;&#xA;    &gt;&lt;/figure&gt;</description>
+      
     </item>
+    
     <item>
       <title>3月6日</title>
-      <link>https://wangliamsmith.github.ioB/posts/3%E6%9C%886%E6%97%A5/</link>
+      <link>https://wangliamsmith.github.io/posts/3%E6%9C%886%E6%97%A5/</link>
       <pubDate>Fri, 06 Mar 2026 16:20:22 +0800</pubDate>
-      <guid>https://wangliamsmith.github.ioB/posts/3%E6%9C%886%E6%97%A5/</guid>
-      <description>&lt;h2 id=&#34;大雪天&#34;&gt;大雪天&lt;/h2&gt;&#xA;&lt;p&gt;很喜欢，下大雪。学习效率高。雪花，簌簌的落下来，很安静，很暖和，热茶，小院，英语。&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;images/36.jpg&#34; alt=&#34;大雪天&#34;&gt;&lt;/p&gt;</description>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>https://wangliamsmith.github.io/posts/3%E6%9C%886%E6%97%A5/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;大雪天&#xA;    &lt;div id=&#34;大雪天&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#%e5%a4%a7%e9%9b%aa%e5%a4%a9&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;p&gt;很喜欢，下大雪。学习效率高。雪花，簌簌的落下来，很安静，很暖和，热茶，小院，英语。&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;low&#34;&#xA;    alt=&#34;大雪天&#34;&#xA;    src=&#34;https://wangliamsmith.github.io/images/36.jpg&#34;&#xA;    &gt;&lt;/figure&gt;</description>
+      
     </item>
+    
     <item>
       <title>3月5日</title>
-      <link>https://wangliamsmith.github.ioB/posts/3%E6%9C%885%E6%97%A5/</link>
+      <link>https://wangliamsmith.github.io/posts/3%E6%9C%885%E6%97%A5/</link>
       <pubDate>Thu, 05 Mar 2026 17:55:49 +0800</pubDate>
-      <guid>https://wangliamsmith.github.ioB/posts/3%E6%9C%885%E6%97%A5/</guid>
-      <description>&lt;h2 id=&#34;随便写写&#34;&gt;随便写写&lt;/h2&gt;&#xA;&lt;p&gt;今天，还好，昨天用HTML的方法，flash记单词，效率很高；&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;images/35.jpg&#34; alt=&#34;随便的图片&#34;&gt;&lt;/p&gt;</description>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>https://wangliamsmith.github.io/posts/3%E6%9C%885%E6%97%A5/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;随便写写&#xA;    &lt;div id=&#34;随便写写&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#%e9%9a%8f%e4%be%bf%e5%86%99%e5%86%99&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;p&gt;今天，还好，昨天用HTML的方法，flash记单词，效率很高；&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;low&#34;&#xA;    alt=&#34;随便的图片&#34;&#xA;    src=&#34;https://wangliamsmith.github.io/images/35.jpg&#34;&#xA;    &gt;&lt;/figure&gt;</description>
+      
     </item>
+    
     <item>
       <title>3月4日</title>
-      <link>https://wangliamsmith.github.ioB/posts/3%E6%9C%884%E6%97%A5/</link>
+      <link>https://wangliamsmith.github.io/posts/3%E6%9C%884%E6%97%A5/</link>
       <pubDate>Wed, 04 Mar 2026 20:57:43 +0800</pubDate>
-      <guid>https://wangliamsmith.github.ioB/posts/3%E6%9C%884%E6%97%A5/</guid>
-      <description>&lt;h2 id=&#34;天天写&#34;&gt;天天写&lt;/h2&gt;&#xA;&lt;p&gt;今天，发现制作flash记忆卡，更有利于学习英语；之前用过anki,但是自己制作太麻烦，从网上找的不是很合适不是没有读音，就是单词不是自己喜欢的分类；这次好了，用Google gemini，直接生成HTML，然后自己的专属单词，太好用了，又发现了核武器。&lt;/p&gt;&#xA;&lt;h2 id=&#34;奇怪的知识&#34;&gt;奇怪的知识&lt;/h2&gt;&#xA;&lt;p&gt;从另一个角度看军队的战斗力：谁能解决“为何而战”的问题，谁就能迸发最强的战斗力。&#xA;这也是说，“师出有名”，义军。举例子就是：秦军，之所以厉害，是因为“军功爵制”；辽军，之所以厉害，是因为可以掠夺财富，成为自己私产，可以世袭成为藩王；清朝的八旗制度，也是回答了“为何而战”。也包括早期的太平天国，后来的朝鲜战争，有一个原因就是：战斗意志。&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;images/34.jpg&#34; alt=&#34;随手图片&#34;&gt;&lt;/p&gt;</description>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>https://wangliamsmith.github.io/posts/3%E6%9C%884%E6%97%A5/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;天天写&#xA;    &lt;div id=&#34;天天写&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#%e5%a4%a9%e5%a4%a9%e5%86%99&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;p&gt;今天，发现制作flash记忆卡，更有利于学习英语；之前用过anki,但是自己制作太麻烦，从网上找的不是很合适不是没有读音，就是单词不是自己喜欢的分类；这次好了，用Google gemini，直接生成HTML，然后自己的专属单词，太好用了，又发现了核武器。&lt;/p&gt;&#xA;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;奇怪的知识&#xA;    &lt;div id=&#34;奇怪的知识&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#%e5%a5%87%e6%80%aa%e7%9a%84%e7%9f%a5%e8%af%86&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;p&gt;从另一个角度看军队的战斗力：谁能解决“为何而战”的问题，谁就能迸发最强的战斗力。&#xA;这也是说，“师出有名”，义军。举例子就是：秦军，之所以厉害，是因为“军功爵制”；辽军，之所以厉害，是因为可以掠夺财富，成为自己私产，可以世袭成为藩王；清朝的八旗制度，也是回答了“为何而战”。也包括早期的太平天国，后来的朝鲜战争，有一个原因就是：战斗意志。&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;low&#34;&#xA;    alt=&#34;随手图片&#34;&#xA;    src=&#34;https://wangliamsmith.github.io/images/34.jpg&#34;&#xA;    &gt;&lt;/figure&gt;</description>
+      
     </item>
+    
     <item>
       <title>3月3日</title>
-      <link>https://wangliamsmith.github.ioB/posts/3%E6%9C%883%E6%97%A5/</link>
+      <link>https://wangliamsmith.github.io/posts/3%E6%9C%883%E6%97%A5/</link>
       <pubDate>Tue, 03 Mar 2026 10:35:30 +0800</pubDate>
-      <guid>https://wangliamsmith.github.ioB/posts/3%E6%9C%883%E6%97%A5/</guid>
-      <description>&lt;h1 id=&#34;开始即50&#34;&gt;开始即50%&lt;/h1&gt;&#xA;&lt;h2 id=&#34;随便写写&#34;&gt;随便写写&lt;/h2&gt;&#xA;&lt;p&gt;这，就是我的状态，简单，放松，才是最高效，最持久的。&lt;/p&gt;&#xA;&lt;h2 id=&#34;思想&#34;&gt;思想&lt;/h2&gt;&#xA;&lt;h2 id=&#34;思想的产生是需要条件的高压没时间或者被奶头乐所摄魂了是无法思考的我要做的就是给自己创造好的思想条件至于能否产生是否去学习那是后话了干净的桌子宽敞明亮咖啡白纸舒服&#34;&gt;思想的产生是需要条件的，高压，没时间，或者被奶头乐所摄魂了。是无法思考的。我，要做的就是：给自己创造好的思想条件，至于能否产生，是否去学习？那是后话了，干净的桌子宽敞明亮，咖啡，白纸。舒服。&lt;/h2&gt;&#xA;&lt;h2 id=&#34;今天的照片&#34;&gt;&lt;img src=&#34;images/33.jpg&#34; alt=&#34;今天的照片&#34;&gt;&lt;/h2&gt;&#xA;&lt;p&gt;** 哈哈 **&lt;/p&gt;</description>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>https://wangliamsmith.github.io/posts/3%E6%9C%883%E6%97%A5/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;开始即50%&#xA;    &lt;div id=&#34;开始即50&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#%e5%bc%80%e5%a7%8b%e5%8d%b350&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h1&gt;&#xA;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;随便写写&#xA;    &lt;div id=&#34;随便写写&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#%e9%9a%8f%e4%be%bf%e5%86%99%e5%86%99&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;p&gt;这，就是我的状态，简单，放松，才是最高效，最持久的。&lt;/p&gt;&#xA;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;思想&#xA;    &lt;div id=&#34;思想&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#%e6%80%9d%e6%83%b3&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;思想的产生是需要条件的，高压，没时间，或者被奶头乐所摄魂了。是无法思考的。我，要做的就是：给自己创造好的思想条件，至于能否产生，是否去学习？那是后话了，干净的桌子宽敞明亮，咖啡，白纸。舒服。&#xA;    &lt;div id=&#34;思想的产生是需要条件的高压没时间或者被奶头乐所摄魂了是无法思考的我要做的就是给自己创造好的思想条件至于能否产生是否去学习那是后话了干净的桌子宽敞明亮咖啡白纸舒服&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#%e6%80%9d%e6%83%b3%e7%9a%84%e4%ba%a7%e7%94%9f%e6%98%af%e9%9c%80%e8%a6%81%e6%9d%a1%e4%bb%b6%e7%9a%84%e9%ab%98%e5%8e%8b%e6%b2%a1%e6%97%b6%e9%97%b4%e6%88%96%e8%80%85%e8%a2%ab%e5%a5%b6%e5%a4%b4%e4%b9%90%e6%89%80%e6%91%84%e9%ad%82%e4%ba%86%e6%98%af%e6%97%a0%e6%b3%95%e6%80%9d%e8%80%83%e7%9a%84%e6%88%91%e8%a6%81%e5%81%9a%e7%9a%84%e5%b0%b1%e6%98%af%e7%bb%99%e8%87%aa%e5%b7%b1%e5%88%9b%e9%80%a0%e5%a5%bd%e7%9a%84%e6%80%9d%e6%83%b3%e6%9d%a1%e4%bb%b6%e8%87%b3%e4%ba%8e%e8%83%bd%e5%90%a6%e4%ba%a7%e7%94%9f%e6%98%af%e5%90%a6%e5%8e%bb%e5%ad%a6%e4%b9%a0%e9%82%a3%e6%98%af%e5%90%8e%e8%af%9d%e4%ba%86%e5%b9%b2%e5%87%80%e7%9a%84%e6%a1%8c%e5%ad%90%e5%ae%bd%e6%95%9e%e6%98%8e%e4%ba%ae%e5%92%96%e5%95%a1%e7%99%bd%e7%ba%b8%e8%88%92%e6%9c%8d&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;low&#34;&#xA;    alt=&#34;今天的照片&#34;&#xA;    src=&#34;https://wangliamsmith.github.io/images/33.jpg&#34;&#xA;    &gt;&lt;/figure&gt;&#xA;&#xA;    &lt;div id=&#34;今天的照片&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#%e4%bb%8a%e5%a4%a9%e7%9a%84%e7%85%a7%e7%89%87&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;p&gt;** 哈哈 **&lt;/p&gt;</description>
+      
     </item>
+    
     <item>
       <title>3月2B日</title>
-      <link>https://wangliamsmith.github.ioB/posts/3%E6%9C%882b%E6%97%A5/</link>
+      <link>https://wangliamsmith.github.io/posts/3%E6%9C%882b%E6%97%A5/</link>
       <pubDate>Mon, 02 Mar 2026 14:50:03 +0800</pubDate>
-      <guid>https://wangliamsmith.github.ioB/posts/3%E6%9C%882b%E6%97%A5/</guid>
-      <description>&lt;h2 id=&#34;学技能是很快乐的重复也是快乐的&#34;&gt;学技能是很快乐的/重复也是快乐的&lt;/h2&gt;&#xA;&lt;h2 id=&#34;因为任何技能本身的习得就是需要大量的重复的不要看见熟悉的就以为自己知道然后不耐烦的划走实则只是有印象而已要达到技能的境界还需大量联系而烦躁是最大的敌人&#34;&gt;因为，任何技能本身的习得，就是需要大量的重复的，不要看见熟悉的就以为自己知道，然后不耐烦的划走，实则只是“有印象“而已，要达到技能的境界，还需大量联系，而烦躁是最大的敌人。&lt;/h2&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;尝试引用的格式&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;学习github以及blog也是技能吗&#34;&gt;学习GitHub以及Blog也是技能吗&lt;/h2&gt;&#xA;&lt;p&gt;不是的，这个只是一个小的技巧，仅此而已。英语是技能，自行车/开车/游泳/潜水是技能。&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;images/32B.jpg&#34; alt=&#34;高温大雪&#34;&gt;&lt;/p&gt;</description>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>https://wangliamsmith.github.io/posts/3%E6%9C%882b%E6%97%A5/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;学技能是很快乐的/重复也是快乐的&#xA;    &lt;div id=&#34;学技能是很快乐的重复也是快乐的&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#%e5%ad%a6%e6%8a%80%e8%83%bd%e6%98%af%e5%be%88%e5%bf%ab%e4%b9%90%e7%9a%84%e9%87%8d%e5%a4%8d%e4%b9%9f%e6%98%af%e5%bf%ab%e4%b9%90%e7%9a%84&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;因为，任何技能本身的习得，就是需要大量的重复的，不要看见熟悉的就以为自己知道，然后不耐烦的划走，实则只是“有印象“而已，要达到技能的境界，还需大量联系，而烦躁是最大的敌人。&#xA;    &lt;div id=&#34;因为任何技能本身的习得就是需要大量的重复的不要看见熟悉的就以为自己知道然后不耐烦的划走实则只是有印象而已要达到技能的境界还需大量联系而烦躁是最大的敌人&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#%e5%9b%a0%e4%b8%ba%e4%bb%bb%e4%bd%95%e6%8a%80%e8%83%bd%e6%9c%ac%e8%ba%ab%e7%9a%84%e4%b9%a0%e5%be%97%e5%b0%b1%e6%98%af%e9%9c%80%e8%a6%81%e5%a4%a7%e9%87%8f%e7%9a%84%e9%87%8d%e5%a4%8d%e7%9a%84%e4%b8%8d%e8%a6%81%e7%9c%8b%e8%a7%81%e7%86%9f%e6%82%89%e7%9a%84%e5%b0%b1%e4%bb%a5%e4%b8%ba%e8%87%aa%e5%b7%b1%e7%9f%a5%e9%81%93%e7%84%b6%e5%90%8e%e4%b8%8d%e8%80%90%e7%83%a6%e7%9a%84%e5%88%92%e8%b5%b0%e5%ae%9e%e5%88%99%e5%8f%aa%e6%98%af%e6%9c%89%e5%8d%b0%e8%b1%a1%e8%80%8c%e5%b7%b2%e8%a6%81%e8%be%be%e5%88%b0%e6%8a%80%e8%83%bd%e7%9a%84%e5%a2%83%e7%95%8c%e8%bf%98%e9%9c%80%e5%a4%a7%e9%87%8f%e8%81%94%e7%b3%bb%e8%80%8c%e7%83%a6%e8%ba%81%e6%98%af%e6%9c%80%e5%a4%a7%e7%9a%84%e6%95%8c%e4%ba%ba&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;blockquote&gt;&lt;p&gt;尝试引用的格式&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;学习GitHub以及Blog也是技能吗&#xA;    &lt;div id=&#34;学习github以及blog也是技能吗&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#%e5%ad%a6%e4%b9%a0github%e4%bb%a5%e5%8f%8ablog%e4%b9%9f%e6%98%af%e6%8a%80%e8%83%bd%e5%90%97&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;p&gt;不是的，这个只是一个小的技巧，仅此而已。英语是技能，自行车/开车/游泳/潜水是技能。&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;low&#34;&#xA;    alt=&#34;高温大雪&#34;&#xA;    src=&#34;https://wangliamsmith.github.io/images/32B.jpg&#34;&#xA;    &gt;&lt;/figure&gt;</description>
+      
     </item>
+    
     <item>
       <title>3月2日</title>
-      <link>https://wangliamsmith.github.ioB/posts/3%E6%9C%882%E6%97%A5/</link>
+      <link>https://wangliamsmith.github.io/posts/3%E6%9C%882%E6%97%A5/</link>
       <pubDate>Mon, 02 Mar 2026 09:50:04 +0800</pubDate>
-      <guid>https://wangliamsmith.github.ioB/posts/3%E6%9C%882%E6%97%A5/</guid>
-      <description>&lt;h2 id=&#34;今天身体很号&#34;&gt;今天身体很号&lt;/h2&gt;&#xA;&lt;h2 id=&#34;不喘了有精神就想干活想学习想进步而与之相反有些时候不是我这个人变懒惰了不想去工作学习努力而是身体疲惫和喘不上气&#34;&gt;不喘了，有精神，就想干活想学习，想进步。而与之相反，有些时候，不是我这个人变懒惰了不想去工作，学习，努力，而是身体疲惫和喘不上气。&lt;/h2&gt;&#xA;&lt;h2 id=&#34;春天的雪&#34;&gt;春天的雪&lt;/h2&gt;&#xA;&lt;h2 id=&#34;好大的雪多年未见过地里小葱都发芽各种小虫子绿苔藓已经春天还能连着8个小时的大雪10cm左右的积雪消融的很快哪里都是水&#34;&gt;好大的雪，多年未见过，地里小葱都发芽，各种小虫子，绿苔藓，已经春天，还能连着8个小时的大雪，10cm左右的积雪，消融的很快，哪里都是水。&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://wangliamsmith.github.ioB/images/32.jpg&#34; alt=&#34;好看的图片&#34;&gt;&lt;/p&gt;</description>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>https://wangliamsmith.github.io/posts/3%E6%9C%882%E6%97%A5/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;今天身体很号&#xA;    &lt;div id=&#34;今天身体很号&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#%e4%bb%8a%e5%a4%a9%e8%ba%ab%e4%bd%93%e5%be%88%e5%8f%b7&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;不喘了，有精神，就想干活想学习，想进步。而与之相反，有些时候，不是我这个人变懒惰了不想去工作，学习，努力，而是身体疲惫和喘不上气。&#xA;    &lt;div id=&#34;不喘了有精神就想干活想学习想进步而与之相反有些时候不是我这个人变懒惰了不想去工作学习努力而是身体疲惫和喘不上气&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#%e4%b8%8d%e5%96%98%e4%ba%86%e6%9c%89%e7%b2%be%e7%a5%9e%e5%b0%b1%e6%83%b3%e5%b9%b2%e6%b4%bb%e6%83%b3%e5%ad%a6%e4%b9%a0%e6%83%b3%e8%bf%9b%e6%ad%a5%e8%80%8c%e4%b8%8e%e4%b9%8b%e7%9b%b8%e5%8f%8d%e6%9c%89%e4%ba%9b%e6%97%b6%e5%80%99%e4%b8%8d%e6%98%af%e6%88%91%e8%bf%99%e4%b8%aa%e4%ba%ba%e5%8f%98%e6%87%92%e6%83%b0%e4%ba%86%e4%b8%8d%e6%83%b3%e5%8e%bb%e5%b7%a5%e4%bd%9c%e5%ad%a6%e4%b9%a0%e5%8a%aa%e5%8a%9b%e8%80%8c%e6%98%af%e8%ba%ab%e4%bd%93%e7%96%b2%e6%83%ab%e5%92%8c%e5%96%98%e4%b8%8d%e4%b8%8a%e6%b0%94&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;春天的雪&#xA;    &lt;div id=&#34;春天的雪&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#%e6%98%a5%e5%a4%a9%e7%9a%84%e9%9b%aa&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;好大的雪，多年未见过，地里小葱都发芽，各种小虫子，绿苔藓，已经春天，还能连着8个小时的大雪，10cm左右的积雪，消融的很快，哪里都是水。&#xA;    &lt;div id=&#34;好大的雪多年未见过地里小葱都发芽各种小虫子绿苔藓已经春天还能连着8个小时的大雪10cm左右的积雪消融的很快哪里都是水&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#%e5%a5%bd%e5%a4%a7%e7%9a%84%e9%9b%aa%e5%a4%9a%e5%b9%b4%e6%9c%aa%e8%a7%81%e8%bf%87%e5%9c%b0%e9%87%8c%e5%b0%8f%e8%91%b1%e9%83%bd%e5%8f%91%e8%8a%bd%e5%90%84%e7%a7%8d%e5%b0%8f%e8%99%ab%e5%ad%90%e7%bb%bf%e8%8b%94%e8%97%93%e5%b7%b2%e7%bb%8f%e6%98%a5%e5%a4%a9%e8%bf%98%e8%83%bd%e8%bf%9e%e7%9d%808%e4%b8%aa%e5%b0%8f%e6%97%b6%e7%9a%84%e5%a4%a7%e9%9b%aa10cm%e5%b7%a6%e5%8f%b3%e7%9a%84%e7%a7%af%e9%9b%aa%e6%b6%88%e8%9e%8d%e7%9a%84%e5%be%88%e5%bf%ab%e5%93%aa%e9%87%8c%e9%83%bd%e6%98%af%e6%b0%b4&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;low&#34;&#xA;    alt=&#34;好看的图片&#34;&#xA;    src=&#34;https://wangliamsmith.github.io/images/32.jpg&#34;&#xA;    &gt;&lt;/figure&gt;</description>
+      
     </item>
+    
     <item>
       <title>3月1日2</title>
-      <link>https://wangliamsmith.github.ioB/posts/3%E6%9C%881%E6%97%A52/</link>
+      <link>https://wangliamsmith.github.io/posts/3%E6%9C%881%E6%97%A52/</link>
       <pubDate>Sun, 01 Mar 2026 14:50:25 +0800</pubDate>
-      <guid>https://wangliamsmith.github.ioB/posts/3%E6%9C%881%E6%97%A52/</guid>
-      <description>&lt;hr&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;减少噪音&#34;&gt;减少噪音&lt;/h2&gt;&#xA;&lt;p&gt;各种杂乱的声音会影响思维和思考，加重思维负担。&#xA;寺庙的和尚没有杂念，事情少，脑子里也不转动。而你即便安静下来，心中还是万马奔腾。如何？就是阅读或者其他，让思维安静，让效率提升。&#xA;&lt;img src=&#34;images/31!.jpg&#34; alt=&#34;今天好大的雪&#34;&gt;&lt;/p&gt;</description>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>https://wangliamsmith.github.io/posts/3%E6%9C%881%E6%97%A52/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;hr&gt;&#xA;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;减少噪音&#xA;    &lt;div id=&#34;减少噪音&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#%e5%87%8f%e5%b0%91%e5%99%aa%e9%9f%b3&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;p&gt;各种杂乱的声音会影响思维和思考，加重思维负担。&#xA;寺庙的和尚没有杂念，事情少，脑子里也不转动。而你即便安静下来，心中还是万马奔腾。如何？就是阅读或者其他，让思维安静，让效率提升。&#xA;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;low&#34;&#xA;    alt=&#34;今天好大的雪&#34;&#xA;    src=&#34;https://wangliamsmith.github.io/images/31!.jpg&#34;&#xA;    &gt;&lt;/figure&gt;&#xA;&lt;/p&gt;</description>
+      
     </item>
+    
     <item>
       <title>3月1日</title>
-      <link>https://wangliamsmith.github.ioB/posts/3%E6%9C%881%E6%97%A5/</link>
+      <link>https://wangliamsmith.github.io/posts/3%E6%9C%881%E6%97%A5/</link>
       <pubDate>Sun, 01 Mar 2026 10:14:18 +0800</pubDate>
-      <guid>https://wangliamsmith.github.ioB/posts/3%E6%9C%881%E6%97%A5/</guid>
-      <description>&lt;hr&gt;&#xA;&lt;h1 id=&#34;15天雅思&#34;&gt;15天雅思&lt;/h1&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;非离开不可&#34;&gt;非离开不可&lt;/h2&gt;&#xA;&lt;p&gt;如果说，有啥特别的愿望，从小到大从未变过。那就是离开这里。亲代对子代的抚育之情，是厚重的是应该被感恩的。但，同样如果这个厚重没有了边界，亲情成为了束缚，你自己要知道自己的路。&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://wangliamsmith.github.ioB/images/31.jpg&#34; alt=&#34;下大雪啦&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;我不是一个人在战斗&#34;&gt;我不是一个人在战斗&lt;/h2&gt;&#xA;&lt;p&gt;昨天，又高兴又难过。她准备了护照，看来也要跑路。我，要抓紧时间了。&lt;/p&gt;&#xA;&lt;p&gt;人生的意义，也许就是不断探索。&lt;/p&gt;</description>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>https://wangliamsmith.github.io/posts/3%E6%9C%881%E6%97%A5/</guid>
+      <description>&lt;hr&gt;&#xA;&#xA;&lt;h1 class=&#34;relative group&#34;&gt;15天雅思&#xA;    &lt;div id=&#34;15天雅思&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#15%e5%a4%a9%e9%9b%85%e6%80%9d&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h1&gt;&#xA;&lt;hr&gt;&#xA;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;非离开不可&#xA;    &lt;div id=&#34;非离开不可&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#%e9%9d%9e%e7%a6%bb%e5%bc%80%e4%b8%8d%e5%8f%af&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;p&gt;如果说，有啥特别的愿望，从小到大从未变过。那就是离开这里。亲代对子代的抚育之情，是厚重的是应该被感恩的。但，同样如果这个厚重没有了边界，亲情成为了束缚，你自己要知道自己的路。&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;low&#34;&#xA;    alt=&#34;下大雪啦&#34;&#xA;    src=&#34;https://wangliamsmith.github.io/images/31.jpg&#34;&#xA;    &gt;&lt;/figure&gt;&#xA;&lt;hr&gt;&#xA;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;我不是一个人在战斗&#xA;    &lt;div id=&#34;我不是一个人在战斗&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#%e6%88%91%e4%b8%8d%e6%98%af%e4%b8%80%e4%b8%aa%e4%ba%ba%e5%9c%a8%e6%88%98%e6%96%97&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;p&gt;昨天，又高兴又难过。她准备了护照，看来也要跑路。我，要抓紧时间了。&lt;/p&gt;&#xA;&lt;p&gt;人生的意义，也许就是不断探索。&lt;/p&gt;</description>
+      
     </item>
+    
     <item>
       <title>精进是本能</title>
-      <link>https://wangliamsmith.github.ioB/posts/second/</link>
+      <link>https://wangliamsmith.github.io/posts/second/</link>
       <pubDate>Sat, 28 Feb 2026 18:16:58 +0800</pubDate>
-      <guid>https://wangliamsmith.github.ioB/posts/second/</guid>
-      <description>&lt;h1 id=&#34;学习的权利无认可剥夺&#34;&gt;学习的权利无认可剥夺&lt;/h1&gt;&#xA;&lt;h2 id=&#34;传统观念&#34;&gt;传统观念&lt;/h2&gt;&#xA;&lt;p&gt;回家过年，八十多岁的爷爷对我，还要继续教育“学成文武艺，货与帝王家”。你这天天念英语，得个啥？不仅是爷爷，我父亲的思想亦是如此，学习本身是功力性质的，是要“货与帝王家”的，不论是上大学必须本科，不是本科不能考公务员，上研究生更能公务员还能加分……本身把“考公”与“学习”两个概念进行了混淆。&#xA;学习，是终身的，是不断精进自己的技艺的过程，本身是欣喜的/愉悦的。而一旦功利化，压力大，就会丧失学习的快乐，彻底丧失后，就很难再进步了。以高中生为例，需要的是：理解，记忆。而理解和记忆两个能力，在高压下，在情绪低落的时候，是很难进行的，你越是紧张越是压力大，越是逼迫自己去学习，反而会越是不开心，反而越是学习效率低下。“仓廪实而知荣辱”“吃饱饭了能诗歌”，很多情况是有前置条件的：学习这个事情本身，需要的环境很苛刻！它发生在你的大脑里，仅仅是大量重复是不够的，还需要你的理解和悟性。&lt;/p&gt;&#xA;&lt;h2 id=&#34;开拓&#34;&gt;开拓&lt;/h2&gt;&#xA;&lt;p&gt;今天部署成功了这个blog很开心。我年纪一把了，为啥还要学英语？因为我知道了，山的那边不是山！感谢编程随想。谢谢你，开拓了我的思想。之前很多事情，都是知道，但是有一个“思想钢印”，管那些政治干毛线，过好自己的日子才是，混的差的一批，关心啥国家大事……直到人到中年一事无成。&lt;/p&gt;&#xA;&lt;h2 id=&#34;自己&#34;&gt;自己&lt;/h2&gt;&#xA;&lt;p&gt;我自己，就是我自己，生命的本质是探索。无须证明，我，已经证明了三十多年了，且，我已经证明过：可以考上重点大学，可以保送研究生，可以考上公务员……然后呢？这道证明题无限制，这根本不是我要的！还好，我有一个能力：掀桌子的能力。打碎了瓶瓶罐罐，推倒重来。可惜的只是，近两年身体不好，因为心情没有那种畅快的感觉，虽然没有抑郁，但是总闷闷不乐，我热爱的体育不能继续，一跑步就喘，窒息感，生活质量的严重下降，制约了我自己。&#xA;常总结，目前，就一个目标：调整自己快乐，不快乐就换个地方/环境/各种都是服务于营造好的身心愉悦的条件，然后英语雅思，然后加拿大/美国。&#xA;就如同跑步，如同考大学，只有自己一次次锻炼跑步，一次次刷题，才能去！只有我自己能帮到我自己，对自己好点。我知道，我不孤独，还有很多与我一样的人，陌生人祝福你，你可以的。&#xA;&lt;img src=&#34;https://wangliamsmith.github.ioB/images/IMG_0355.jpg&#34; alt=&#34;小时候爱问山的那边是啥&#34;&gt;&lt;/p&gt;</description>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>https://wangliamsmith.github.io/posts/second/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;学习的权利无认可剥夺&#xA;    &lt;div id=&#34;学习的权利无认可剥夺&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#%e5%ad%a6%e4%b9%a0%e7%9a%84%e6%9d%83%e5%88%a9%e6%97%a0%e8%ae%a4%e5%8f%af%e5%89%a5%e5%a4%ba&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h1&gt;&#xA;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;传统观念&#xA;    &lt;div id=&#34;传统观念&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#%e4%bc%a0%e7%bb%9f%e8%a7%82%e5%bf%b5&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;p&gt;回家过年，八十多岁的爷爷对我，还要继续教育“学成文武艺，货与帝王家”。你这天天念英语，得个啥？不仅是爷爷，我父亲的思想亦是如此，学习本身是功力性质的，是要“货与帝王家”的，不论是上大学必须本科，不是本科不能考公务员，上研究生更能公务员还能加分……本身把“考公”与“学习”两个概念进行了混淆。&#xA;学习，是终身的，是不断精进自己的技艺的过程，本身是欣喜的/愉悦的。而一旦功利化，压力大，就会丧失学习的快乐，彻底丧失后，就很难再进步了。以高中生为例，需要的是：理解，记忆。而理解和记忆两个能力，在高压下，在情绪低落的时候，是很难进行的，你越是紧张越是压力大，越是逼迫自己去学习，反而会越是不开心，反而越是学习效率低下。“仓廪实而知荣辱”“吃饱饭了能诗歌”，很多情况是有前置条件的：学习这个事情本身，需要的环境很苛刻！它发生在你的大脑里，仅仅是大量重复是不够的，还需要你的理解和悟性。&lt;/p&gt;&#xA;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;开拓&#xA;    &lt;div id=&#34;开拓&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#%e5%bc%80%e6%8b%93&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;p&gt;今天部署成功了这个blog很开心。我年纪一把了，为啥还要学英语？因为我知道了，山的那边不是山！感谢编程随想。谢谢你，开拓了我的思想。之前很多事情，都是知道，但是有一个“思想钢印”，管那些政治干毛线，过好自己的日子才是，混的差的一批，关心啥国家大事……直到人到中年一事无成。&lt;/p&gt;&#xA;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;自己&#xA;    &lt;div id=&#34;自己&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#%e8%87%aa%e5%b7%b1&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;p&gt;我自己，就是我自己，生命的本质是探索。无须证明，我，已经证明了三十多年了，且，我已经证明过：可以考上重点大学，可以保送研究生，可以考上公务员……然后呢？这道证明题无限制，这根本不是我要的！还好，我有一个能力：掀桌子的能力。打碎了瓶瓶罐罐，推倒重来。可惜的只是，近两年身体不好，因为心情没有那种畅快的感觉，虽然没有抑郁，但是总闷闷不乐，我热爱的体育不能继续，一跑步就喘，窒息感，生活质量的严重下降，制约了我自己。&#xA;常总结，目前，就一个目标：调整自己快乐，不快乐就换个地方/环境/各种都是服务于营造好的身心愉悦的条件，然后英语雅思，然后加拿大/美国。&#xA;就如同跑步，如同考大学，只有自己一次次锻炼跑步，一次次刷题，才能去！只有我自己能帮到我自己，对自己好点。我知道，我不孤独，还有很多与我一样的人，陌生人祝福你，你可以的。&#xA;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;low&#34;&#xA;    alt=&#34;小时候爱问山的那边是啥&#34;&#xA;    src=&#34;https://wangliamsmith.github.io/images/IMG_0355.jpg&#34;&#xA;    &gt;&lt;/figure&gt;&#xA;&lt;/p&gt;</description>
+      
     </item>
+    
     <item>
       <title>我的第一篇blog</title>
-      <link>https://wangliamsmith.github.ioB/posts/first-post/</link>
+      <link>https://wangliamsmith.github.io/posts/first-post/</link>
       <pubDate>Sat, 28 Feb 2026 16:22:52 +0800</pubDate>
-      <guid>https://wangliamsmith.github.ioB/posts/first-post/</guid>
-      <description>&lt;h1 id=&#34;生命不息折腾不止&#34;&gt;生命不息折腾不止&lt;/h1&gt;&#xA;&lt;h2 id=&#34;行动力先得60分&#34;&gt;行动力/先得60分&lt;/h2&gt;&#xA;&lt;p&gt;这是我的第一篇blog，我感觉这个比游戏好玩，人在低谷的时候总的干点什么，学英语/学编程，不虚度即可，人生不断探索，这就是生命的本质，活到老折腾到老。&lt;/p&gt;&#xA;&lt;h2 id=&#34;60分的前置是立刻开始就得分50&#34;&gt;60分的前置是：立刻开始就得分50！&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://wangliamsmith.github.ioB/images/IMG_0478.jpg&#34; alt=&#34;今天的照片&#34;&gt;&lt;/p&gt;</description>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>https://wangliamsmith.github.io/posts/first-post/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;生命不息折腾不止&#xA;    &lt;div id=&#34;生命不息折腾不止&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#%e7%94%9f%e5%91%bd%e4%b8%8d%e6%81%af%e6%8a%98%e8%85%be%e4%b8%8d%e6%ad%a2&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h1&gt;&#xA;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;行动力/先得60分&#xA;    &lt;div id=&#34;行动力先得60分&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#%e8%a1%8c%e5%8a%a8%e5%8a%9b%e5%85%88%e5%be%9760%e5%88%86&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;p&gt;这是我的第一篇blog，我感觉这个比游戏好玩，人在低谷的时候总的干点什么，学英语/学编程，不虚度即可，人生不断探索，这就是生命的本质，活到老折腾到老。&lt;/p&gt;&#xA;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;60分的前置是：立刻开始就得分50！&#xA;    &lt;div id=&#34;60分的前置是立刻开始就得分50&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#60%e5%88%86%e7%9a%84%e5%89%8d%e7%bd%ae%e6%98%af%e7%ab%8b%e5%88%bb%e5%bc%80%e5%a7%8b%e5%b0%b1%e5%be%97%e5%88%8650&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;low&#34;&#xA;    alt=&#34;今天的照片&#34;&#xA;    src=&#34;https://wangliamsmith.github.io/images/IMG_0478.jpg&#34;&#xA;    &gt;&lt;/figure&gt;</description>
+      
     </item>
+    
   </channel>
 </rss>
