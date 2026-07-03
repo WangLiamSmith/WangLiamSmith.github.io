@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wpa2 on Blowfish</title>
+    <link>https://wangliamsmith.github.io/tags/wpa2/</link>
+    <description>Recent content in Wpa2 on Blowfish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>nuno@n9o.xyz (Blowfish)</managingEditor>
+    <webMaster>nuno@n9o.xyz (Blowfish)</webMaster>
+    <copyright>© 2026 Blowfish</copyright>
+    <lastBuildDate>Fri, 03 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://wangliamsmith.github.io/tags/wpa2/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>使用 Hashcat 破解 WPA2 WiFi 密码实战</title>
+      <link>https://wangliamsmith.github.io/posts/hashcat-wpa2-crack/</link>
+      <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>https://wangliamsmith.github.io/posts/hashcat-wpa2-crack/</guid>
+      <description>记录一次使用 Hashcat 通过 PMKID 攻击成功破解 WPA2-PSK WiFi 密码的全过程</description>
+      
+    </item>
+    
+  </channel>
+</rss>

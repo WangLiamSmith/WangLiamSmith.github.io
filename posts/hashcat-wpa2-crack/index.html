@@ -15,18 +15,20 @@
 
   
   
-    <title>晴天 &middot; Blowfish</title>
-    <meta name="title" content="晴天 &middot; Blowfish">
+    <title>使用 Hashcat 破解 WPA2 WiFi 密码实战 &middot; Blowfish</title>
+    <meta name="title" content="使用 Hashcat 破解 WPA2 WiFi 密码实战 &middot; Blowfish">
   
 
   
   
-    <meta name="description" content="A powerful, lightweight theme for Hugo.">
+    <meta name="description" content="记录一次使用 Hashcat 通过 PMKID 攻击成功破解 WPA2-PSK WiFi 密码的全过程">
+  
+  
+    <meta name="keywords" content="hashcat,wifi,security,wpa2,password-cracking,">
   
   
   
-  
-  <link rel="canonical" href="https://wangliamsmith.github.io/posts/20260702-/">
+  <link rel="canonical" href="https://wangliamsmith.github.io/posts/hashcat-wpa2-crack/">
   
 
   
@@ -50,26 +52,25 @@
   
 
   
-  <meta property="og:url" content="https://wangliamsmith.github.io/posts/20260702-/">
+  <meta property="og:url" content="https://wangliamsmith.github.io/posts/hashcat-wpa2-crack/">
   <meta property="og:site_name" content="Blowfish">
-  <meta property="og:title" content="晴天">
-  <meta property="og:description" content="钱 # 钱是好的管家，但是差的老板。
-可以很好服务人，方便你的生活，但你若是被它驱使着，那苦不堪言。
-住宿条件，洗澡，冰箱，停车，书桌……这一切的一切，会决定你的生活习惯，你洗澡没洗澡，停车舒服否，会影响一个人的行动力，执行力，而这些是最宝贵的，也是说，风水好，风水不好。
-而这一切，仅仅值多少钱？就几百块钱！这么便宜的价钱，更换一个好的环境，产出更多！难道不是最赚的吗？为了省钱一两百，选择环境差，那么，整个人会san值降低，不舒服，风水不好，生病，哮喘，宅着不想动……那，损失多少？">
+  <meta property="og:title" content="使用 Hashcat 破解 WPA2 WiFi 密码实战">
+  <meta property="og:description" content="记录一次使用 Hashcat 通过 PMKID 攻击成功破解 WPA2-PSK WiFi 密码的全过程">
   <meta property="og:locale" content="en">
   <meta property="og:type" content="article">
     <meta property="article:section" content="posts">
-    <meta property="article:published_time" content="2026-07-02T15:00:05+08:00">
-    <meta property="article:modified_time" content="2026-07-02T15:00:05+08:00">
+    <meta property="article:published_time" content="2026-07-03T00:00:00+00:00">
+    <meta property="article:modified_time" content="2026-07-03T00:00:00+00:00">
+    <meta property="article:tag" content="Hashcat">
+    <meta property="article:tag" content="Wifi">
+    <meta property="article:tag" content="Security">
+    <meta property="article:tag" content="Wpa2">
+    <meta property="article:tag" content="Password-Cracking">
 
   
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="晴天">
-  <meta name="twitter:description" content="钱 # 钱是好的管家，但是差的老板。
-可以很好服务人，方便你的生活，但你若是被它驱使着，那苦不堪言。
-住宿条件，洗澡，冰箱，停车，书桌……这一切的一切，会决定你的生活习惯，你洗澡没洗澡，停车舒服否，会影响一个人的行动力，执行力，而这些是最宝贵的，也是说，风水好，风水不好。
-而这一切，仅仅值多少钱？就几百块钱！这么便宜的价钱，更换一个好的环境，产出更多！难道不是最赚的吗？为了省钱一两百，选择环境差，那么，整个人会san值降低，不舒服，风水不好，生病，哮喘，宅着不想动……那，损失多少？">
+  <meta name="twitter:title" content="使用 Hashcat 破解 WPA2 WiFi 密码实战">
+  <meta name="twitter:description" content="记录一次使用 Hashcat 通过 PMKID 攻击成功破解 WPA2-PSK WiFi 密码的全过程">
 
   
   
@@ -233,8 +234,8 @@
       
 <script id="firebase-config" 
         type="application/json"
-        data-views="views_posts/20260702-.md"
-        data-likes="likes_posts/20260702-.md">
+        data-views="views_posts/hashcat-wpa2-crack/index.md"
+        data-likes="likes_posts/hashcat-wpa2-crack/index.md">
   {
     "config": {
       "apiKey": "AIzaSyB5tqlqDky77Vb4Tc4apiHV4hRZI18KGiY",
@@ -270,25 +271,25 @@
     "@context": "https://schema.org",
     "@type": "Article",
     "articleSection": "Posts",
-    "name": "晴天",
-    "headline": "晴天",
+    "name": "使用 Hashcat 破解 WPA2 WiFi 密码实战",
+    "headline": "使用 Hashcat 破解 WPA2 WiFi 密码实战",
     
     "inLanguage": "en",
-    "url" : "https://wangliamsmith.github.io/posts/20260702-/",
+    "url" : "https://wangliamsmith.github.io/posts/hashcat-wpa2-crack/",
     "author" : {
       "@type": "Person",
       "name": "Blowfish"
     },
     "copyrightYear": "2026",
-    "dateCreated": "2026-07-02T15:00:05\u002b08:00",
-    "datePublished": "2026-07-02T15:00:05\u002b08:00",
+    "dateCreated": "2026-07-03T00:00:00\u002b00:00",
+    "datePublished": "2026-07-03T00:00:00\u002b00:00",
     
-    "dateModified": "2026-07-02T15:00:05\u002b08:00",
+    "dateModified": "2026-07-03T00:00:00\u002b00:00",
     
-    
+    "keywords": ["hashcat","wifi","security","wpa2","password-cracking"],
     
     "mainEntityOfPage": "true",
-    "wordCount": "6"
+    "wordCount": "352"
   },
   {
     "@context": "https://schema.org",
@@ -301,8 +302,8 @@
           },{
         "@type": "ListItem",
         "position":  2 ,
-        "name": "晴天",
-        "item": "https://wangliamsmith.github.io/posts/20260702-/"
+        "name": "使用 Hashcat 破解 WPA2 WiFi 密码实战",
+        "item": "https://wangliamsmith.github.io/posts/hashcat-wpa2-crack/"
       }
     ]
   }]
@@ -1047,8 +1048,8 @@
 
   
   <li class="hidden">
-    <a class="hover:underline decoration-neutral-300 dark:underline-neutral-600" href="/posts/20260702-/"
-      >晴天</a
+    <a class="hover:underline decoration-neutral-300 dark:underline-neutral-600" href="/posts/hashcat-wpa2-crack/"
+      >使用 Hashcat 破解 WPA2 WiFi 密码实战</a
     ><span class="px-1 text-primary-500">/</span>
   </li>
 
@@ -1057,7 +1058,7 @@
 
       
       <h1 class="mt-0 text-4xl font-extrabold text-neutral-900 dark:text-neutral">
-        晴天
+        使用 Hashcat 破解 WPA2 WiFi 密码实战
       </h1>
       <div class="mt-1 mb-6 text-base text-neutral-500 dark:text-neutral-400 print:hidden">
         
@@ -1111,7 +1112,7 @@
   <div class="flex flex-row flex-wrap items-center">
     
     
-      <span title="Reading time">1 min</span><span class="px-2 text-primary-500">&middot;</span><span>
+      <span title="Reading time">2 mins</span><span class="px-2 text-primary-500">&middot;</span><span>
   
   
     
@@ -1125,7 +1126,7 @@
     
   
   <span
-    id="views_posts/20260702-.md"
+    id="views_posts/hashcat-wpa2-crack/index.md"
     class="animate-pulse inline-block text-transparent max-h-3 rounded-full -mt-[2px] align-middle bg-neutral-300 dark:bg-neutral-400"
     title="views"
     >loading</span
@@ -1143,7 +1144,7 @@
 
 <span class="mb-[2px]">
   <a
-    href="https://github.com/nunocoracao/blowfish/tree/main/exampleSite/content/posts/20260702-.md"
+    href="https://github.com/nunocoracao/blowfish/tree/main/exampleSite/content/posts/hashcat-wpa2-crack/index.md"
     class="text-lg hover:text-primary-500"
     rel="noopener noreferrer"
     target="_blank"
@@ -1188,6 +1189,58 @@
         
       
         
+          
+            
+              <a class="relative mt-[0.5rem] me-2" href="/tags/hashcat/">
+                <span class="flex cursor-pointer">
+  <span
+    class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+    Hashcat
+  </span>
+</span>
+
+              </a>
+            
+              <a class="relative mt-[0.5rem] me-2" href="/tags/wifi/">
+                <span class="flex cursor-pointer">
+  <span
+    class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+    Wifi
+  </span>
+</span>
+
+              </a>
+            
+              <a class="relative mt-[0.5rem] me-2" href="/tags/security/">
+                <span class="flex cursor-pointer">
+  <span
+    class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+    Security
+  </span>
+</span>
+
+              </a>
+            
+              <a class="relative mt-[0.5rem] me-2" href="/tags/wpa2/">
+                <span class="flex cursor-pointer">
+  <span
+    class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+    Wpa2
+  </span>
+</span>
+
+              </a>
+            
+              <a class="relative mt-[0.5rem] me-2" href="/tags/password-cracking/">
+                <span class="flex cursor-pointer">
+  <span
+    class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+    Password-Cracking
+  </span>
+</span>
+
+              </a>
+            
           
         
       
@@ -1319,7 +1372,26 @@
     class="min-w-[220px] py-2 border-dotted border-s-1 -ms-5 ps-5 dark:border-neutral-600">
     <nav id="TableOfContents">
   <ul>
-    <li><a href="#钱">钱</a></li>
+    <li><a href="#前言">前言</a></li>
+    <li><a href="#hashcat-简介">Hashcat 简介</a></li>
+    <li><a href="#目标网络">目标网络</a></li>
+    <li><a href="#pmkid-攻击原理简介">PMKID 攻击原理简介</a></li>
+    <li><a href="#破解过程">破解过程</a>
+      <ul>
+        <li><a href="#第一步捕获-pmkid">第一步：捕获 PMKID</a></li>
+        <li><a href="#第二步准备字典与规则">第二步：准备字典与规则</a></li>
+        <li><a href="#第三步运行-hashcat">第三步：运行 Hashcat</a></li>
+        <li><a href="#第四步漫长的等待">第四步：漫长的等待</a></li>
+        <li><a href="#第五步结果验证">第五步：结果验证</a></li>
+      </ul>
+    </li>
+    <li><a href="#经验总结与安全建议">经验总结与安全建议</a>
+      <ul>
+        <li><a href="#从攻击者角度看">从攻击者角度看</a></li>
+        <li><a href="#从防御者角度看">从防御者角度看</a></li>
+      </ul>
+    </li>
+    <li><a href="#结语">结语</a></li>
   </ul>
 </nav>
   </div>
@@ -1333,7 +1405,26 @@
     class="py-2 border-dotted border-neutral-300 border-s-1 -ms-5 ps-5 dark:border-neutral-600">
     <nav id="TableOfContents">
   <ul>
-    <li><a href="#钱">钱</a></li>
+    <li><a href="#前言">前言</a></li>
+    <li><a href="#hashcat-简介">Hashcat 简介</a></li>
+    <li><a href="#目标网络">目标网络</a></li>
+    <li><a href="#pmkid-攻击原理简介">PMKID 攻击原理简介</a></li>
+    <li><a href="#破解过程">破解过程</a>
+      <ul>
+        <li><a href="#第一步捕获-pmkid">第一步：捕获 PMKID</a></li>
+        <li><a href="#第二步准备字典与规则">第二步：准备字典与规则</a></li>
+        <li><a href="#第三步运行-hashcat">第三步：运行 Hashcat</a></li>
+        <li><a href="#第四步漫长的等待">第四步：漫长的等待</a></li>
+        <li><a href="#第五步结果验证">第五步：结果验证</a></li>
+      </ul>
+    </li>
+    <li><a href="#经验总结与安全建议">经验总结与安全建议</a>
+      <ul>
+        <li><a href="#从攻击者角度看">从攻击者角度看</a></li>
+        <li><a href="#从防御者角度看">从防御者角度看</a></li>
+      </ul>
+    </li>
+    <li><a href="#结语">结语</a></li>
   </ul>
 </nav>
   </div>
@@ -1450,28 +1541,310 @@
         
 
         <div class="article-content max-w-prose mb-20">
-          <figure><img
-    class="my-0 rounded-md"
-    loading="lazy"
-    decoding="async"
-    fetchpriority="low"
-    alt=""
-    src="/images/20260702-.jpg"
-    ></figure>
-
-<h2 class="relative group">钱
-    <div id="钱" class="anchor"></div>
+          
+<h2 class="relative group">前言
+    <div id="前言" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
-        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%e9%92%b1" aria-label="Anchor">#</a>
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%e5%89%8d%e8%a8%80" aria-label="Anchor">#</a>
     </span>
     
 </h2>
-<p>钱是好的管家，但是差的老板。</p>
-<p>可以很好服务人，方便你的生活，但你若是被它驱使着，那苦不堪言。</p>
-<p>住宿条件，洗澡，冰箱，停车，书桌……这一切的一切，会决定你的生活习惯，你洗澡没洗澡，停车舒服否，会影响一个人的行动力，执行力，而这些是最宝贵的，也是说，风水好，风水不好。</p>
-<p>而这一切，仅仅值多少钱？就几百块钱！这么便宜的价钱，更换一个好的环境，产出更多！难道不是最赚的吗？为了省钱一两百，选择环境差，那么，整个人会san值降低，不舒服，风水不好，生病，哮喘，宅着不想动……那，损失多少？</p>
+<p>WiFi 安全一直是人们关注的话题。WPA2-PSK 作为最常见的家庭和小型办公 WiFi 加密协议，虽然相对安全，但在密码选择不当的情况下，依然存在被破解的风险。本文将记录一次使用 <strong>Hashcat</strong> 通过 <strong>PMKID 攻击</strong>成功破解 WPA2-PSK WiFi 密码的完整过程。</p>
+
+<h2 class="relative group">Hashcat 简介
+    <div id="hashcat-简介" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#hashcat-%e7%ae%80%e4%bb%8b" aria-label="Anchor">#</a>
+    </span>
+    
+</h2>
+<p><a href="https://hashcat.net/hashcat/"  target="_blank" rel="noreferrer">Hashcat</a> 自称是&quot;世界上最快的密码恢复工具&quot;，它是一个开源、多平台支持的密码破解工具，支持 GPU 加速（NVIDIA、AMD、Intel），能够利用 GPU 的并行计算能力，以极高的速度进行哈希碰撞和字典攻击。</p>
+<p>Hashcat 支持的攻击模式包括：</p>
+<ul>
+<li><strong>字典攻击</strong> — 使用预定义的单词列表进行尝试</li>
+<li><strong>组合攻击</strong> — 将字典中的单词进行组合</li>
+<li><strong>掩码攻击</strong> — 基于密码模式（如纯数字、纯字母等）进行暴力破解</li>
+<li><strong>混合攻击</strong> — 字典单词加前缀/后缀的组合攻击</li>
+<li><strong>规则链攻击</strong> — 对字典进行各种变换规则处理</li>
+</ul>
+
+<h2 class="relative group">目标网络
+    <div id="目标网络" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%e7%9b%ae%e6%a0%87%e7%bd%91%e7%bb%9c" aria-label="Anchor">#</a>
+    </span>
+    
+</h2>
+<p>这次破解的目标是一个家庭 WiFi 网络：</p>
+<table>
+  <thead>
+      <tr>
+          <th>参数</th>
+          <th>值</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>SSID</td>
+          <td>CMCC-homyi2506</td>
+      </tr>
+      <tr>
+          <td>加密方式</td>
+          <td>WPA2-PSK</td>
+      </tr>
+      <tr>
+          <td>攻击方式</td>
+          <td>PMKID 攻击</td>
+      </tr>
+  </tbody>
+</table>
+
+<h2 class="relative group">PMKID 攻击原理简介
+    <div id="pmkid-攻击原理简介" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#pmkid-%e6%94%bb%e5%87%bb%e5%8e%9f%e7%90%86%e7%ae%80%e4%bb%8b" aria-label="Anchor">#</a>
+    </span>
+    
+</h2>
+<p>PMKID（Pairwise Master Key Identifier）攻击是 2018 年由 atom（Hashcat 的作者）发现的一种针对 WPA/WPA2 的无线网络攻击方法。与传统需要捕获完整四次握手的攻击方式不同，PMKID 攻击有以下优势：</p>
+<ol>
+<li><strong>不需要客户端认证</strong> — 目标 AP 即使没有连接任何客户端也能被攻击</li>
+<li><strong>仅需一个帧</strong> — 只需要捕获 AP 发送的 PMKID 信息元素即可</li>
+<li><strong>可离线破解</strong> — 获取到的哈希值可以离线进行 GPU 加速破解</li>
+</ol>
+<p>PMKID 的计算方式为：</p>
+<div class="highlight-wrapper"><div class="highlight"><pre tabindex="0" class="chroma"><code class="language-text" data-lang="text"><span class="line"><span class="cl">PMKID = HMAC-SHA1(PMK, (&#34;PMK Name&#34; + BSSID + STA MAC))</span></span></code></pre></div></div>
+<p>其中 PMK（Pairwise Master Key）由密码短语（PSK）、SSID 和 SSID 长度通过 PBKDF2 算法导出。因此破解的本质就是：<strong>猜测密码 → 计算 PMK → 计算 PMKID → 与捕获的 PMKID 对比</strong>。</p>
+
+<h2 class="relative group">破解过程
+    <div id="破解过程" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%e7%a0%b4%e8%a7%a3%e8%bf%87%e7%a8%8b" aria-label="Anchor">#</a>
+    </span>
+    
+</h2>
+
+<h3 class="relative group">第一步：捕获 PMKID
+    <div id="第一步捕获-pmkid" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%e7%ac%ac%e4%b8%80%e6%ad%a5%e6%8d%95%e8%8e%b7-pmkid" aria-label="Anchor">#</a>
+    </span>
+    
+</h3>
+<p>使用 <code>hcxdumptool</code> 或 <code>hxctools</code> 套件中的 <code>hcxpcapngtool</code> 将捕获的数据包转换为 Hashcat 可识别的哈希格式（22000 模式）。</p>
+
+<h3 class="relative group">第二步：准备字典与规则
+    <div id="第二步准备字典与规则" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%e7%ac%ac%e4%ba%8c%e6%ad%a5%e5%87%86%e5%a4%87%e5%ad%97%e5%85%b8%e4%b8%8e%e8%a7%84%e5%88%99" aria-label="Anchor">#</a>
+    </span>
+    
+</h3>
+<p>由于之前尝试过两次简单密码都成功了：</p>
+<div class="highlight-wrapper"><div class="highlight"><pre tabindex="0" class="chroma"><code class="language-text" data-lang="text"><span class="line"><span class="cl">1. 12345678
+</span></span><span class="line"><span class="cl">2. medo2405</span></span></code></pre></div></div>
+<p>但这一次目标密码不在常用字典中，因此需要使用<strong>暴力破解 + 掩码攻击</strong>的组合。</p>
+
+<h3 class="relative group">第三步：运行 Hashcat
+    <div id="第三步运行-hashcat" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%e7%ac%ac%e4%b8%89%e6%ad%a5%e8%bf%90%e8%a1%8c-hashcat" aria-label="Anchor">#</a>
+    </span>
+    
+</h3>
+<p>以下是本次破解使用的命令示例：</p>
+<div class="highlight-wrapper"><div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl"><span class="c1"># 使用字典攻击</span>
+</span></span><span class="line"><span class="cl">hashcat -m <span class="m">22000</span> -a <span class="m">0</span> capture.22000 wordlist.txt
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1"># 使用掩码攻击（8位纯数字）</span>
+</span></span><span class="line"><span class="cl">hashcat -m <span class="m">22000</span> -a <span class="m">3</span> capture.22000 ?d?d?d?d?d?d?d?d
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1"># 使用规则攻击</span>
+</span></span><span class="line"><span class="cl">hashcat -m <span class="m">22000</span> -a <span class="m">0</span> capture.22000 wordlist.txt -r best64.rule
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1"># 混合模式：字典 + 掩码</span>
+</span></span><span class="line"><span class="cl">hashcat -m <span class="m">22000</span> -a <span class="m">6</span> capture.22000 wordlist.txt ?d?d?d
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1"># 使用 GPU 加速 + 状态保存</span>
+</span></span><span class="line"><span class="cl">hashcat -m <span class="m">22000</span> -a <span class="m">3</span> capture.22000 ?l?l?l?l?l?l?l?l --status --status-timer<span class="o">=</span><span class="m">10</span></span></span></code></pre></div></div>
+<p>参数说明：</p>
+<ul>
+<li><code>-m 22000</code> — WPA2-PMKID 破解模式</li>
+<li><code>-a 0</code> — 字典攻击模式</li>
+<li><code>-a 3</code> — 掩码攻击模式</li>
+<li><code>-a 6</code> — 混合攻击模式</li>
+<li><code>--status</code> — 显示实时状态</li>
+<li><code>--status-timer=10</code> — 每 10 秒更新一次状态</li>
+</ul>
+
+<h3 class="relative group">第四步：漫长的等待
+    <div id="第四步漫长的等待" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%e7%ac%ac%e5%9b%9b%e6%ad%a5%e6%bc%ab%e9%95%bf%e7%9a%84%e7%ad%89%e5%be%85" aria-label="Anchor">#</a>
+    </span>
+    
+</h3>
+<p>破解是一个需要耐心的过程。由于目标密码使用了字母和数字的组合，无法通过简单字典匹配，只能依靠纯暴力破解。</p>
+
+<figure>
+      <img class="my-0 rounded-md center" src="/images/hashcat-snapshot.jpg" alt="" />
+  
+  <figcaption>Hashcat 破解成功截图</figcaption>
+  </figure>
+<p>从截图中可以看到关键信息：</p>
+<table>
+  <thead>
+      <tr>
+          <th>指标</th>
+          <th>值</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>开始时间</td>
+          <td>2026-07-02 11:36</td>
+      </tr>
+      <tr>
+          <td>完成时间</td>
+          <td>2026-07-03 01:18</td>
+      </tr>
+      <tr>
+          <td>总耗时</td>
+          <td><strong>约 13 小时 42 分钟</strong></td>
+      </tr>
+      <tr>
+          <td>GPU 速度</td>
+          <td><strong>约 98k H/s</strong></td>
+      </tr>
+      <tr>
+          <td>破解结果</td>
+          <td><strong>homyi888</strong></td>
+      </tr>
+  </tbody>
+</table>
+
+<h3 class="relative group">第五步：结果验证
+    <div id="第五步结果验证" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%e7%ac%ac%e4%ba%94%e6%ad%a5%e7%bb%93%e6%9e%9c%e9%aa%8c%e8%af%81" aria-label="Anchor">#</a>
+    </span>
+    
+</h3>
+<p>经过漫长的等待，终于成功从成千上万个可能的组合中找出了正确的密码：<strong>homyi888</strong>。</p>
+
+<h2 class="relative group">经验总结与安全建议
+    <div id="经验总结与安全建议" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%e7%bb%8f%e9%aa%8c%e6%80%bb%e7%bb%93%e4%b8%8e%e5%ae%89%e5%85%a8%e5%bb%ba%e8%ae%ae" aria-label="Anchor">#</a>
+    </span>
+    
+</h2>
+
+<h3 class="relative group">从攻击者角度看
+    <div id="从攻击者角度看" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%e4%bb%8e%e6%94%bb%e5%87%bb%e8%80%85%e8%a7%92%e5%ba%a6%e7%9c%8b" aria-label="Anchor">#</a>
+    </span>
+    
+</h3>
+<ol>
+<li><strong>GPU 速度是关键</strong> — 98k H/s 的速度下仍需 13+ 小时，如果使用更高端的 GPU（如 RTX 4090），速度可以提升数十倍</li>
+<li><strong>密码复杂度决定破解时间</strong> — 纯数字 8 位最快几小时内完成，而混合大小写字母+数字+符号几乎不可穷举</li>
+<li><strong>PMKID 攻击降低了门槛</strong> — 不需要客户端在线，无需干扰正常通信</li>
+<li><strong>状态保存很重要</strong> — 使用 <code>--restore</code> 可以断点续算</li>
+</ol>
+
+<h3 class="relative group">从防御者角度看
+    <div id="从防御者角度看" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%e4%bb%8e%e9%98%b2%e5%be%a1%e8%80%85%e8%a7%92%e5%ba%a6%e7%9c%8b" aria-label="Anchor">#</a>
+    </span>
+    
+</h3>
+<ol>
+<li>
+<p><strong>使用强密码</strong> — 以下标准可以有效抵抗离线暴力破解：</p>
+<table>
+  <thead>
+      <tr>
+          <th>密码强度</th>
+          <th>示例</th>
+          <th>预估破解时间（98k H/s）</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>弱</td>
+          <td>12345678</td>
+          <td>几分钟</td>
+      </tr>
+      <tr>
+          <td>较弱</td>
+          <td>homyi888</td>
+          <td>约 14 小时</td>
+      </tr>
+      <tr>
+          <td>中等</td>
+          <td>Home@2024#WiFi</td>
+          <td>数百年</td>
+      </tr>
+      <tr>
+          <td>强</td>
+          <td>kF8#mP2$vL9@qR5!</td>
+          <td>不可穷举</td>
+      </tr>
+  </tbody>
+</table>
+</li>
+<li>
+<p><strong>选择 WPA3</strong> — WPA3 使用 SAE（Simultaneous Authentication of Equals）握手，可以有效防止离线字典攻击</p>
+</li>
+<li>
+<p><strong>隐藏 SSID 并不能真正增强安全性</strong> — 但可以作为一层薄弱的额外防护</p>
+</li>
+<li>
+<p><strong>MAC 地址过滤同样不靠谱</strong> — MAC 地址可以被伪造</p>
+</li>
+</ol>
+
+<h2 class="relative group">结语
+    <div id="结语" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%e7%bb%93%e8%af%ad" aria-label="Anchor">#</a>
+    </span>
+    
+</h2>
+<p>这次的破解过程耗时约 13 小时 42 分钟，最终在第二天凌晨 1 点多获得了密码 <code>homyi888</code>。虽然时间不短，但这正说明了<strong>密码强度</strong>的重要性——一个看似随机的组合（homyi + 888）在合理的 GPU 运算速度下依然被暴力破解了。</p>
+<p>这提醒我们：在设置 WiFi 密码时，一定要使用<strong>足够长且复杂</strong>的密码，最好是 <strong>16 位以上、包含大小写字母、数字和特殊字符</strong>的组合。毕竟，你的 WiFi 密码可能就是家庭网络安全的第一道防线。</p>
+<p>如果你对 Hashcat 或无线网络安全感兴趣，建议在合法授权的前提下进行学习和测试，切勿用于非法用途。</p>
 
           
           
@@ -1489,7 +1862,7 @@
         <a
           class=" m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
           target="_blank"
-          href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://wangliamsmith.github.io/posts/20260702-/&amp;title=%e6%99%b4%e5%a4%a9"
+          href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://wangliamsmith.github.io/posts/hashcat-wpa2-crack/&amp;title=%e4%bd%bf%e7%94%a8%20Hashcat%20%e7%a0%b4%e8%a7%a3%20WPA2%20WiFi%20%e5%af%86%e7%a0%81%e5%ae%9e%e6%88%98"
           
           title="Share on LinkedIn"
           aria-label="Share on LinkedIn">
@@ -1503,7 +1876,7 @@
         <a
           class=" m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
           target="_blank"
-          href="https://twitter.com/intent/tweet/?url=https://wangliamsmith.github.io/posts/20260702-/&amp;text=%e6%99%b4%e5%a4%a9"
+          href="https://twitter.com/intent/tweet/?url=https://wangliamsmith.github.io/posts/hashcat-wpa2-crack/&amp;text=%e4%bd%bf%e7%94%a8%20Hashcat%20%e7%a0%b4%e8%a7%a3%20WPA2%20WiFi%20%e5%af%86%e7%a0%81%e5%ae%9e%e6%88%98"
           
           title="Tweet on Twitter"
           aria-label="Tweet on Twitter">
@@ -1516,7 +1889,7 @@
         <a
           class=" m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
           target="_blank"
-          href="https://bsky.app/intent/compose?text=%e6%99%b4%e5%a4%a9&#43;https://wangliamsmith.github.io/posts/20260702-/"
+          href="https://bsky.app/intent/compose?text=%e4%bd%bf%e7%94%a8%20Hashcat%20%e7%a0%b4%e8%a7%a3%20WPA2%20WiFi%20%e5%af%86%e7%a0%81%e5%ae%9e%e6%88%98&#43;https://wangliamsmith.github.io/posts/hashcat-wpa2-crack/"
           
           title="Post on Bluesky"
           aria-label="Post on Bluesky">
@@ -1529,7 +1902,7 @@
         <a
           class=" m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
           target="_blank"
-          href="https://reddit.com/submit/?url=https://wangliamsmith.github.io/posts/20260702-/&amp;resubmit=true&amp;title=%e6%99%b4%e5%a4%a9"
+          href="https://reddit.com/submit/?url=https://wangliamsmith.github.io/posts/hashcat-wpa2-crack/&amp;resubmit=true&amp;title=%e4%bd%bf%e7%94%a8%20Hashcat%20%e7%a0%b4%e8%a7%a3%20WPA2%20WiFi%20%e5%af%86%e7%a0%81%e5%ae%9e%e6%88%98"
           
           title="Submit to Reddit"
           aria-label="Submit to Reddit">
@@ -1543,7 +1916,7 @@
         <a
           class=" m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
           target="_blank"
-          href="https://api.whatsapp.com/send?text=https://wangliamsmith.github.io/posts/20260702-/&amp;resubmit=true&amp;title=%e6%99%b4%e5%a4%a9"
+          href="https://api.whatsapp.com/send?text=https://wangliamsmith.github.io/posts/hashcat-wpa2-crack/&amp;resubmit=true&amp;title=%e4%bd%bf%e7%94%a8%20Hashcat%20%e7%a0%b4%e8%a7%a3%20WPA2%20WiFi%20%e5%af%86%e7%a0%81%e5%ae%9e%e6%88%98"
           
           title="Share via WhatsApp"
           aria-label="Share via WhatsApp">
@@ -1557,7 +1930,7 @@
         <a
           class=" m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
           target="_blank"
-          href="https://t.me/share/url?url=https://wangliamsmith.github.io/posts/20260702-/&amp;resubmit=true&amp;title=%e6%99%b4%e5%a4%a9"
+          href="https://t.me/share/url?url=https://wangliamsmith.github.io/posts/hashcat-wpa2-crack/&amp;resubmit=true&amp;title=%e4%bd%bf%e7%94%a8%20Hashcat%20%e7%a0%b4%e8%a7%a3%20WPA2%20WiFi%20%e5%af%86%e7%a0%81%e5%ae%9e%e6%88%98"
           
           title="Share via Telegram"
           aria-label="Share via Telegram">
@@ -1571,7 +1944,7 @@
         <a
           class=" m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
           target="_blank"
-          href="https://pinterest.com/pin/create/bookmarklet/?url=https://wangliamsmith.github.io/posts/20260702-/&amp;description=%e6%99%b4%e5%a4%a9"
+          href="https://pinterest.com/pin/create/bookmarklet/?url=https://wangliamsmith.github.io/posts/hashcat-wpa2-crack/&amp;description=%e4%bd%bf%e7%94%a8%20Hashcat%20%e7%a0%b4%e8%a7%a3%20WPA2%20WiFi%20%e5%af%86%e7%a0%81%e5%ae%9e%e6%88%98"
           
           title="Pin on Pinterest"
           aria-label="Pin on Pinterest">
@@ -1585,7 +1958,7 @@
         <a
           class=" m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
           target="_blank"
-          href="https://www.facebook.com/sharer/sharer.php?u=https://wangliamsmith.github.io/posts/20260702-/&amp;quote=%e6%99%b4%e5%a4%a9"
+          href="https://www.facebook.com/sharer/sharer.php?u=https://wangliamsmith.github.io/posts/hashcat-wpa2-crack/&amp;quote=%e4%bd%bf%e7%94%a8%20Hashcat%20%e7%a0%b4%e8%a7%a3%20WPA2%20WiFi%20%e5%af%86%e7%a0%81%e5%ae%9e%e6%88%98"
           
           title="Share on Facebook"
           aria-label="Share on Facebook">
@@ -1602,7 +1975,7 @@
           href="#"
           
             data-email="bnVub0BuOW8ueHl6"
-            data-subject="Reply to 晴天"
+            data-subject="Reply to 使用 Hashcat 破解 WPA2 WiFi 密码实战"
           
           title="Send via email"
           aria-label="Send via email">
@@ -1616,7 +1989,7 @@
         <a
           class=" m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
           target="_blank"
-          href="https://line.me/R/share?text=https://wangliamsmith.github.io/posts/20260702-/%20%e6%99%b4%e5%a4%a9"
+          href="https://line.me/R/share?text=https://wangliamsmith.github.io/posts/hashcat-wpa2-crack/%20%e4%bd%bf%e7%94%a8%20Hashcat%20%e7%a0%b4%e8%a7%a3%20WPA2%20WiFi%20%e5%af%86%e7%a0%81%e5%ae%9e%e6%88%98"
           
           title="Share on LINE"
           aria-label="Share on LINE">
@@ -1649,9 +2022,9 @@
           
             <a
               class="flex text-neutral-700 hover:text-primary-600 dark:text-neutral dark:hover:text-primary-400"
-              href="/posts/20260630-you-tang-le-liang-tian/">
+              href="/posts/20260702-/">
               <span class="leading-6">
-                <span class="inline-block rtl:rotate-180">&larr;</span>&ensp;又躺了两天
+                <span class="inline-block rtl:rotate-180">&larr;</span>&ensp;晴天
               </span>
             </a>
             
@@ -1661,7 +2034,7 @@
           
             <a
               class="flex text-right text-neutral-700 hover:text-primary-600 dark:text-neutral dark:hover:text-primary-400"
-              href="/posts/hashcat-wpa2-crack/">
+              href="/posts/20260703-hashcat-wpa2-wifi/">
               <span class="leading-6">
                 使用 Hashcat 破解 WPA2 WiFi 密码实战&ensp;<span class="inline-block rtl:rotate-180">&rarr;</span>
               </span>
